@@ -1,4 +1,4 @@
-# Program Notes
+# Program Specifications
 ## DB Structure
 ### User Model:
 * username (string)
