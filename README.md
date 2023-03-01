@@ -1,4 +1,5 @@
-# kana_workout_tracker
+# Kana Workout Tracker
+
 The purpose of this project is to build a workout tracker web application using Node.js, Express, and MongoDB. The application will allow users to create and log workouts, as well as view their workout history.
 
 At a high level, the application will be executed by first setting up the server using Express, connecting to a MongoDB database, and setting up the necessary API routes to handle user authentication and workout creation/logging. The application will also use EJS templates to render views to the user, and implement client-side JavaScript to handle user interaction.
