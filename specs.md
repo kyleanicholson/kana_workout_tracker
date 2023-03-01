@@ -1,4 +1,19 @@
 # Program Specifications
+
+## Front End Specs
+### Home Page (Dashboard)
+* The home page will display a dashboard with a list of the user's recent workouts and performance data along with buttons to create new workouts or view historical workouts.
+  - Performance Metrics Chart: The performance metrics chart would display the user's progress over time, showing how their performance has improved (or declined) over time for specific exercises.
+  - Overall, the process for implementing graphs to display user workout data involves involve collecting and storing the data in the database, retrieving the data from the database, formatting it for use with a charting library (Chart.js or D3.js), and then displaying the graph to the user.
+### Create Workout Page
+The create workout page allows the user to create a new workout by selecting exercises and adding details such as the number of sets/reps, weight, and RPE.
+### View Workout Page
+Display details about a specific workout, including the exercises performed, the weights lifted, and the user's performance metrics.
+### Exercise Selector
+Allow the user to choose from a list of predefined exercises or add new ones to their workout.
+### Performance 
+
+
 ## DB Structure
 ### User Model:
 * username (string)
